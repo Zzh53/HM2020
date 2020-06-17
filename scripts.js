@@ -119,4 +119,4 @@ function renderTaskCtrlBar(tasks, taskIdx){
 }
 
 renderEditor();
-renderTaskItems();
+
