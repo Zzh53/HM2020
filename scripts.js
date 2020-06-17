@@ -105,7 +105,6 @@ function renderTaskCtrlBar(tasks, taskIdx){
     };
     ctrlbarEl.append(downEl);
 
-
     let cancelEl = document.createElement("button");
     cancelEl.innerText = "X";
     cancelEl.onclick = () => {
